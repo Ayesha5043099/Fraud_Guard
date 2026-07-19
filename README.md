@@ -1,5 +1,5 @@
 
-# FraudGuard — Real-Time Fraud Detection Pipeline
+# FraudGuard 
 
 An end-to-end fraud detection platform built on **Databricks**, processing 6.3M+ financial transactions through a medallion architecture (Bronze → Silver → Gold), with automated ML training, live model serving, a monitoring dashboard, and scheduled orchestration.
 
